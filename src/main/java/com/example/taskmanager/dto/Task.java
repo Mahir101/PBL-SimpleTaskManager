@@ -1,6 +1,6 @@
 package com.example.taskmanager.dto;
 
-public class TaskDto {
+public class Task {
     private Long id;
     private String title;
     private String description;
